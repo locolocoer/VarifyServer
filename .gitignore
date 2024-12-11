@@ -1,0 +1,5 @@
+*.ini
+*.dll
+/.vs
+/mail
+/x64
